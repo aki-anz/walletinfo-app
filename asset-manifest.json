@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/walletinfo-app/static/css/main.dfbd6551.css",
+    "main.js": "/walletinfo-app/static/js/main.afa084bd.js",
+    "static/media/background.gif": "/walletinfo-app/static/media/background.e682fa5a4d136e6ee91c.gif",
+    "index.html": "/walletinfo-app/index.html",
+    "main.dfbd6551.css.map": "/walletinfo-app/static/css/main.dfbd6551.css.map",
+    "main.afa084bd.js.map": "/walletinfo-app/static/js/main.afa084bd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dfbd6551.css",
+    "static/js/main.afa084bd.js"
+  ]
+}

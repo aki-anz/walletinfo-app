@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=DynaPuff&display=swap');
+
+.wallet-card {
+    display: flex;
+    flex-direction: column;
+    margin: 6px;
+    align-items: center;
+    font-size: 25px;
+    color: #ff7f50;
+    font-family: 'DynaPuff', cursive;
+}
+
+.logo {
+    height: 400px;
+    width: 500px;
+}
+
+Button {
+    width: 110px;
+}
+
+.display-account {
+    margin: 25px;
+}
+
+.display-balance {
+    margin: 25px;
+}

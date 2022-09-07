@@ -12,4 +12,4 @@ Only after checking the Ethereum API injected into the browser with MetaMask, th
 
 The address and balance are retrieved via api calls from the front end with functions from the ethers library to the ethereum network. Then, the data is stored in React hooks and presented on the app.
 
-The Provider read only object from the ethers library is used and the getBalance() and getAddress() methods are called to retrieve information from user account, i.e. address.
+The Web3Provider read only object(instance) from the ethers library is used and the getBalance() and getAddress() methods are called to retrieve information from user account, i.e. address.
